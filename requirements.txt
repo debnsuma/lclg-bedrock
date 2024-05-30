@@ -1,0 +1,13 @@
+langchain_community
+tiktoken
+chromadb
+langchain
+langgraph
+tavily-python
+langchain-aws
+jupyter
+pgvector
+boto3
+psycopg2
+psycopg
+psycopg2-binary
